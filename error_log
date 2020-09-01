@@ -1,0 +1,20 @@
+[03-Apr-2020 16:36:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/fuo0oyr1xtns/public_html/application//third_party/PHPExcel/Classes/PHPExcel.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/fuo0oyr1xtns/public_html/application/libraries/Excel.php on line 3
+[02-Jul-2020 07:10:36 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/fuo0oyr1xtns/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[02-Jul-2020 07:10:50 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/fuo0oyr1xtns/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[02-Jul-2020 07:10:55 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/fuo0oyr1xtns/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[02-Jul-2020 07:11:58 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/fuo0oyr1xtns/public_html/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 94
+[17-Jul-2020 04:37:07 UTC] PHP Warning:  Unterminated comment starting line 384 in /home/ovy1mklz4sfr/public_html/onlinequizdev/application/config/config.php on line 384
+[28-Aug-2020 08:24:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Otl.php on line 199
+[28-Aug-2020 08:25:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Otl.php on line 1194
+[28-Aug-2020 08:25:32 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Otl.php on line 1194
+[28-Aug-2020 08:25:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Mpdf.php on line 6118
+[28-Aug-2020 08:26:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Mpdf.php on line 6118
+[28-Aug-2020 08:38:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Otl.php on line 199
+[28-Aug-2020 08:50:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Otl.php on line 1194
+[28-Aug-2020 08:50:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Mpdf.php on line 6118
+[28-Aug-2020 09:34:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Mpdf.php on line 6118
+[28-Aug-2020 09:44:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/ovy1mklz4sfr/public_html/onlinequizdev/vendor/mpdf/mpdf/src/Mpdf.php on line 6118
+[28-Aug-2020 10:57:08 UTC] PHP Fatal error:  Cannot redeclare Result::getUserResult() in /home/ovy1mklz4sfr/public_html/onlinequizdev/application/models/Result.php on line 49
+[28-Aug-2020 10:57:13 UTC] PHP Fatal error:  Cannot redeclare Result::getUserResult() in /home/ovy1mklz4sfr/public_html/onlinequizdev/application/models/Result.php on line 49
+[28-Aug-2020 10:57:16 UTC] PHP Fatal error:  Cannot redeclare Result::getUserResult() in /home/ovy1mklz4sfr/public_html/onlinequizdev/application/models/Result.php on line 49
+[28-Aug-2020 10:58:30 UTC] PHP Fatal error:  Cannot redeclare Result::getUserResult() in /home/ovy1mklz4sfr/public_html/onlinequizdev/application/models/Result.php on line 49

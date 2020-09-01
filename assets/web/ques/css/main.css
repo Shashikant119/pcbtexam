@@ -1,0 +1,47 @@
+html {
+  font-size: 62.5%;
+}
+
+::-moz-selection {
+  background-color: #dd1717;
+  color: #c8a985;
+}
+
+::selection {
+  background-color: #dd1717;
+  color: #c8a985;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ff8a00;
+  border-radius: 0;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(75, 75, 75, 0);
+  border-radius: 0;
+}
+
+button:focus {
+  outline: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+/*# sourceMappingURL=main.css.map */

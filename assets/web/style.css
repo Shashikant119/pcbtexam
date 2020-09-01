@@ -1,0 +1,14 @@
+.table td, .table th {
+    vertical-align: middle !important;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #8e8e8e !important;
+}
+
+.incorrect {
+    background: #ffe1e1;
+}
+.correct {
+    background: #e6ffe1;
+}
